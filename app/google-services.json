@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44329478505",
+    "firebase_url": "https://stories-social-media.firebaseio.com",
+    "project_id": "stories-social-media",
+    "storage_bucket": "stories-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44329478505:android:95b3d4d196c5f432f135f8",
+        "android_client_info": {
+          "package_name": "com.example.storiessocialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44329478505-sun6dunhcm1c606sasc7k49kcdjqjto5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlUZFd1Me0cGa96lzJmX2kzmhmG_Wiadc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44329478505-sun6dunhcm1c606sasc7k49kcdjqjto5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
